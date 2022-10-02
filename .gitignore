@@ -4,3 +4,7 @@ Episode-1/database.db
 Episode-2/.env
 Episode-2/database.db
 Episode-2/cogs/__pycache__
+Episode-3/.env
+*.pyc
+*.db
+videos/Episode_2.mp4
